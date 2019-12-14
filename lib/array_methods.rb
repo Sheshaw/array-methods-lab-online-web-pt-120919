@@ -4,7 +4,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-array = [ "a", "b", "c", "d"]
+hi = [ "a", "b", "c", "d"]
 array.sort
 end
 
