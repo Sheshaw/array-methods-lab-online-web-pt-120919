@@ -4,8 +4,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-hi = [ "a", "b", "c", "d"]
-array.sort
+hi = [ "a", "b", "c", "d"
+hi.sort
 end
 
 def using_reverse(array)
