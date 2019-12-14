@@ -4,13 +4,13 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-hi = [ "a", "b", "c", "d"
+array = [ "a", "b", "c", "d"
 hi.sort
 end
 
 def using_reverse(array)
-  hi = [ "cheese", "pie", "death", "animals"]
-  hi.reverse
+  array = [ "cheese", "pie", "death", "animals"]
+  array.reverse
 
 end
 
